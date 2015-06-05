@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://joeykirk.github.io
+title: Joey Kirk
+email: joey@bloc.io
+author: Joey Kirk
+description: My personal portfolio and blog
+paginate: 5
+google_analytics: 
